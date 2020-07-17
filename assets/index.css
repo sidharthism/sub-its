@@ -1,0 +1,6 @@
+.credit {
+   color: #093a64e0;
+ }
+.credit:hover {
+   text-decoration: underline;
+}
